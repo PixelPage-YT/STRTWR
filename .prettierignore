@@ -2,3 +2,4 @@ build
 **/.solid
 node_modules
 dist
+.vercel
