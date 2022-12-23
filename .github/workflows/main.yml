@@ -1,0 +1,28 @@
+name: Check Building, Linting, Formatting
+on:
+    push:
+
+concurrency: build
+
+jobs:
+    test:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Check out code
+              uses: actions/checkout@v3
+            - name: Set up NodeJS
+              uses: actions/setup-node@v3.1.1
+              with:
+                  node-version: '17'
+            - name: Yarn Setup
+              uses: DerYeger/yarn-setup-action@v1.0.1
+              with:
+                  node-version: '17'
+            - name: Installing Dependencies
+              run: yarn
+            - name: Building
+              run: yarn build
+            - name: Check Linting
+              run: yarn lint
+            - name: Check Formatting
+              run: yarn check-fmt

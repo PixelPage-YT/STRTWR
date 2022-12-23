@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Font faces */
+@font-face {
+    font-family: DxSitrus;
+    src: url(/fonts/DxSitrus-Expanded.otf);
+}
+@font-face {
+    font-family: CabinetGrotesk;
+    src: url(/fonts/CabinetGrotesk-Variable.ttf);
+}
