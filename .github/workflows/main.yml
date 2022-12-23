@@ -22,7 +22,5 @@ jobs:
               run: yarn
             - name: Building
               run: yarn build
-            - name: Check Linting
-              run: yarn lint
             - name: Check Formatting
               run: yarn check-fmt
