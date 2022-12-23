@@ -25,11 +25,10 @@ const Card: Component<{
                 src={imageUrl}
                 class="rounded-t-2xl h-40 object-cover w-72"
             ></img>
-            <div class="p-5">
+            <div class="p-5 overflow-hidden">
                 <h1 class="text-2xl font-heading">{heading}</h1>
-                <p>
-                    {text.length > 100 ? text.substring(0, 100) + '...' : text}
-                </p>
+                <p class="h-28 overflow-hidden break-words">{text}</p>
+                <div class="h-8 w-72 bg-[#FFFFFF] absolute bottom-[2.6rem] blur-sm -translate-x-5" />
                 {/* Button */}
                 <A href={link} class="absolute bottom-5">
                     <div class="rounded-lg h-10 relative w-28 shadow mt-3">
