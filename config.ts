@@ -53,12 +53,6 @@ const config = {
                 'Low lights studios is a young streetwear label and was founded in 2018. We combine street, art, music and youth culture to set new standards in the fashion world. Our philosophy follows the motto "it thrives in low lights" which represents the natural process of creation and growth. According to the spirit of the times, low lights forms a unique taste picture, which offers seasonal men\'s collections. All products are based on a concept that adapts from collection to collection. The result is a young brand that embodies this in a sophisticated way.',
             url: 'https://lowlightsstudios.com/',
         },
-        {
-            image: 'ama.png',
-            name: 'AMA Studios',
-            description: '-',
-            url: 'https://ama-studios.de/',
-        },
     ],
 };
 
