@@ -21,25 +21,6 @@ const config = {
             url: 'https://6pmseason.com/',
         },
         {
-            image: 'wrstbhvr.png',
-            name: 'WRSTBHVR',
-            description:
-                'Die von Fabian Altmann entworfenen Kollektionen umfassen Damen- und Herrenkollektionen sowie Accessoires und Denim. Vom Hauptsitz in Berlin aus entwickelt das junge Team des Labels neue Styles, die den Zeitgeist der Jugendkultur in die Welt transportieren. Mittlerweile hat sich WRSTBHVR international als Marke etabliert, die für Qualität, Design und Authentizität steht.',
-            url: 'https://worst-behavior.com/',
-        },
-        {
-            image: 'favela.png',
-            name: 'Favela',
-            description: '-',
-            url: 'https://favelaclothing.com/',
-        },
-        {
-            image: 'pequs.png',
-            name: 'Pequs',
-            description: 'Roots from Mykonos with spirit of tomorrow',
-            url: 'https://pequs.de/',
-        },
-        {
             image: 'eightyfive.png',
             name: 'Eightyfive',
             description:
@@ -52,6 +33,31 @@ const config = {
             description:
                 'Low lights studios is a young streetwear label and was founded in 2018. We combine street, art, music and youth culture to set new standards in the fashion world. Our philosophy follows the motto "it thrives in low lights" which represents the natural process of creation and growth. According to the spirit of the times, low lights forms a unique taste picture, which offers seasonal men\'s collections. All products are based on a concept that adapts from collection to collection. The result is a young brand that embodies this in a sophisticated way.',
             url: 'https://lowlightsstudios.com/',
+        },
+        {
+            image: 'vacid.png',
+            name: 'Vacid',
+            description:
+                'VACID ist ein unabhängiges Familienunternehmen aus Villingen-Schwenningen in Baden-Württemberg. Keine Investoren, keine bekannten Zugpferde – einfach nur wir. Gründer und Besitzer von VACID ist Zoran Karanovic, der auch für die kreative Ausrichtung der Marke verantwortlich ist. Da wir als Marke großen Wert darauf legen, unseren ökologischen Fußabdruck so niedrig wie möglich zu halten, erfolgt die Produktion unserer Textilien ausschließlich innerhalb der EU unter gezielten Richtlinien und bestmöglichen Arbeitsbedingungen. Um unserer ökologischen Verantwortung weiterhin gerecht zu werden, werden wir auch in Zukunft weiterhin Upcycling betreiben und 100% Bio-Baumwolle und recyceltes Plastik für die Fertigung unserer Produkte verwenden. Um unseren qualitativen Standard auch in Zukunft so hoch wie möglich zu halten, setzen wir bei der Gestaltung unserer Produkte weiterhin auf individuelle Schnitte und hochwertige Stoffe.',
+            url: 'https://vacid.com/',
+        },
+        {
+            image: 'vicinity.png',
+            name: 'Vicinity',
+            description: '-',
+            url: 'https://vicinityclo.de/',
+        },
+        {
+            image: 'olakala.png',
+            name: 'Ola Kala',
+            description: '-',
+            url: 'https://olakala.de/',
+        },
+        {
+            image: 'trendtvision.png',
+            name: 'Trendtvision',
+            description: '-',
+            url: 'https://trendtvision.com/',
         },
     ],
 };
