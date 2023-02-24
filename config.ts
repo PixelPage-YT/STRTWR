@@ -59,6 +59,13 @@ const config = {
             description: '-',
             url: 'https://trendtvision.com/',
         },
+        {
+            image: 'systemic.png',
+            name: '*systemic',
+            description:
+                'We always had the idea to create something, since we both were always passionate and interested when it came to fashion. We both come from a household where our mothers have been sewing and designing for years. They inspired us so much, that *systemic was brought to life in January 2021. After deciding on what we wanted to release first, we had an idea! Later in May we released our first product, a very unexpected silhouette of cargo pants which we called the „Ghost Cargo“. For our promotion phase, we decided to put up yellow posters around selected big cities and interesting destinations around the globe. Our first products ever were sold out in minutes and we immediately knew what we were doing and which direction we would follow along. With our creative and different approach, we drew a lot of interest around the world. It’s not been a long time since we are on the market, but nonetheless we do this for you, all whilst having fun and learning more with every additional step we take. Every single one of our supporters that help us grow is extremely appreciated.',
+            url: 'https://sys-temic.com/',
+        },
     ],
 };
 
