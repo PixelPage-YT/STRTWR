@@ -66,6 +66,20 @@ const config = {
                 'We always had the idea to create something, since we both were always passionate and interested when it came to fashion. We both come from a household where our mothers have been sewing and designing for years. They inspired us so much, that *systemic was brought to life in January 2021. After deciding on what we wanted to release first, we had an idea! Later in May we released our first product, a very unexpected silhouette of cargo pants which we called the „Ghost Cargo“. For our promotion phase, we decided to put up yellow posters around selected big cities and interesting destinations around the globe. Our first products ever were sold out in minutes and we immediately knew what we were doing and which direction we would follow along. With our creative and different approach, we drew a lot of interest around the world. It’s not been a long time since we are on the market, but nonetheless we do this for you, all whilst having fun and learning more with every additional step we take. Every single one of our supporters that help us grow is extremely appreciated.',
             url: 'https://sys-temic.com/',
         },
+        {
+            image: 'reternity.png',
+            name: 'Reternity',
+            description:
+                "RETERNITY  is a streetwear label from the north of Germany that was founded in 2018 by two friends. The art of reflecting one's personality and image in an outfit is an eternal process that the team has set itself. Inspired by the love for detail & the feelings of freedom, immortal looks are created. The high-end products are created in a lengthy, inspiring development process and combine simple, creative styles in a powerful and timeless way. All products are produced in Europe. RETERNITY products are exclusively available at this online store. The young fashion label is growing steadily and is building a team of close friends.",
+            url: 'https://reternity.de/',
+        },
+        {
+            image: 'represent.png',
+            name: 'Represent',
+            description:
+                'Founded in 2011 by brothers George and Mike Heaton, Represent is a British luxury fashion label. Their garments are the embodiment of relentless effort, refinement and constant progression. Each piece is the result of a meticulous design and production process, with expert craftsmanship being an unremitting factor running throughout every collection, silhouette and individual garment. The mission is simple, to build the best brand in the world.',
+            url: 'https://representclo.com/',
+        },
     ],
 };
 
