@@ -194,11 +194,6 @@ const config = {
                     link: 'https://www.patta.nl/',
                 },
                 {
-                    name: 'Seventy5',
-                    description: 'Sneaker, ...',
-                    link: 'https://www.seventyfive.com/',
-                },
-                {
                     name: 'Skatestore',
                     description: 'Skateshop',
                     link: 'https://www.skatestore.nl/',
@@ -233,11 +228,6 @@ const config = {
                     name: 'Woei Rotterdam',
                     description: 'Sneaker, clothing, ...',
                     link: 'https://www.woei-webshop.nl/en/',
-                },
-                {
-                    name: 'Seventy5',
-                    description: 'Sneaker, ...',
-                    link: 'https://www.seventyfive.com/',
                 },
                 {
                     name: 'Skatestore',
