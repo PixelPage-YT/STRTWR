@@ -262,11 +262,6 @@ const config = {
                     link: 'https://www.pivot-skateshop.de/',
                 },
                 {
-                    name: 'Nigh',
-                    description: 'Sneaker, ...',
-                    link: 'https://www.nighshop.com/',
-                },
-                {
                     name: 'LFDY',
                     description: 'German Streetwear',
                     link: 'https://livefastdieyoung.com/pages/store-cologne',
