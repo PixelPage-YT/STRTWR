@@ -276,6 +276,11 @@ const config = {
                     description: 'German Streetwear',
                     link: 'https://livefastdieyoung.com/pages/store-cologne',
                 },
+                {
+                    name: 'Overkill',
+                    description: 'Sneakers, Stussy, Carhartt, ...',
+                    link: 'https://www.overkillshop.com/de-de/stores/overkill-koeln',
+                },
             ],
         },
         {
