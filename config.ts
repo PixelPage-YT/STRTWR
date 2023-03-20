@@ -262,11 +262,6 @@ const config = {
                     link: 'https://www.pivot-skateshop.de/',
                 },
                 {
-                    name: 'The good will out',
-                    description: 'Sneaker, ...',
-                    link: 'https://www.thegoodwillout.com/',
-                },
-                {
                     name: 'Nigh',
                     description: 'Sneaker, ...',
                     link: 'https://www.nighshop.com/',
