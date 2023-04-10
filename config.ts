@@ -271,6 +271,16 @@ const config = {
                     description: 'Sneakers, Stussy, Carhartt, ...',
                     link: 'https://www.overkillshop.com/de-de/stores/overkill-koeln',
                 },
+                {
+                    name: 'Atelier',
+                    description: 'Luxury Streetwear, ...',
+                    link: 'https://atelier-koeln.de/about/',
+                },
+                {
+                    name: 'Vielgoodz',
+                    description: 'Sneaker, Vintage, ...',
+                    link: 'https://vielgoodz.com/',
+                },
             ],
         },
         {
