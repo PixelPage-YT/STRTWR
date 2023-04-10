@@ -281,6 +281,11 @@ const config = {
                     description: 'Sneaker, Vintage, ...',
                     link: 'https://vielgoodz.com/',
                 },
+                {
+                    name: 'Hypeneedz',
+                    description: 'Sneaker',
+                    link: 'https://www.hypeneedz.com/pages/stores',
+                },
             ],
         },
         {
@@ -396,6 +401,11 @@ const config = {
                     description: 'German Streetwear',
                     link: 'https://livefastdieyoung.com/pages/store-munich',
                 },
+                {
+                    name: 'Hypeneedz',
+                    description: 'Sneaker',
+                    link: 'https://www.hypeneedz.com/pages/stores',
+                },
             ],
         },
         {
@@ -411,6 +421,11 @@ const config = {
                     name: 'STIL Skate Goods',
                     description: 'Skateshop',
                     link: 'https://www.stil-laden.com/',
+                },
+                {
+                    name: 'Hypeneedz',
+                    description: 'Sneaker',
+                    link: 'https://www.hypeneedz.com/pages/stores',
                 },
             ],
         },
