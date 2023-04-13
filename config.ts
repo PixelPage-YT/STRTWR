@@ -80,6 +80,18 @@ const config = {
                 'Founded in 2011 by brothers George and Mike Heaton, Represent is a British luxury fashion label. Their garments are the embodiment of relentless effort, refinement and constant progression. Each piece is the result of a meticulous design and production process, with expert craftsmanship being an unremitting factor running throughout every collection, silhouette and individual garment. The mission is simple, to build the best brand in the world.',
             url: 'https://representclo.com/',
         },
+        {
+            image: 'signlocked.png',
+            name: 'Signlocked',
+            description: '-',
+            url: 'https://signlocked.de/',
+        },
+        {
+            image: '99based.png',
+            name: '99based',
+            description: '-',
+            url: 'https://99based.com/',
+        },
     ],
     stores: [
         {
