@@ -283,6 +283,21 @@ const config = {
                     description: 'Sneakers, Stussy, Carhartt, ...',
                     link: 'https://www.overkillshop.com/de-de/stores/overkill-koeln',
                 },
+                {
+                    name: 'Atelier',
+                    description: 'Luxury Streetwear, ...',
+                    link: 'https://atelier-koeln.de/about/',
+                },
+                {
+                    name: 'Vielgoodz',
+                    description: 'Sneaker, Vintage, ...',
+                    link: 'https://vielgoodz.com/',
+                },
+                {
+                    name: 'Hypeneedz',
+                    description: 'Sneaker',
+                    link: 'https://www.hypeneedz.com/pages/stores',
+                },
             ],
         },
         {
@@ -398,6 +413,11 @@ const config = {
                     description: 'German Streetwear',
                     link: 'https://livefastdieyoung.com/pages/store-munich',
                 },
+                {
+                    name: 'Hypeneedz',
+                    description: 'Sneaker',
+                    link: 'https://www.hypeneedz.com/pages/stores',
+                },
             ],
         },
         {
@@ -413,6 +433,11 @@ const config = {
                     name: 'STIL Skate Goods',
                     description: 'Skateshop',
                     link: 'https://www.stil-laden.com/',
+                },
+                {
+                    name: 'Hypeneedz',
+                    description: 'Sneaker',
+                    link: 'https://www.hypeneedz.com/pages/stores',
                 },
             ],
         },
