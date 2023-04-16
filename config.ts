@@ -439,6 +439,11 @@ const config = {
                     description: 'Sneaker',
                     link: 'https://www.hypeneedz.com/pages/stores',
                 },
+                {
+                    name: 'Syrup',
+                    description: 'Sneaker',
+                    link: 'https://syrupstores.com/pages/location',
+                },
             ],
         },
         {
