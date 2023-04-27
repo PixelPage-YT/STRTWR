@@ -511,6 +511,11 @@ const config = {
                     description: 'German Streetwear',
                     link: 'https://livefastdieyoung.com/pages/store-london',
                 },
+                {
+                    name: 'Derschutze Store',
+                    description: 'Clothing',
+                    link: 'https://derschutze.com/pages/physical-stores',
+                },
             ],
         },
         {
@@ -620,6 +625,11 @@ const config = {
                     name: 'Stussy Chapter',
                     description: 'Clothing',
                     link: 'https://eu.stussy.com/blogs/chapters',
+                },
+                {
+                    name: 'Endclothing Milan',
+                    description: 'Sneakers, clothing, ...',
+                    link: 'https://www.endclothing.com/en-de/stores/milano',
                 },
             ],
         },
